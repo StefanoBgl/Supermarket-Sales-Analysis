@@ -1,4 +1,5 @@
-# 🛍️ Understanding Customer Behavior through Supermarket Sales Data
+# 🛍️ Supermarket Sales & Customer Behavior
+![Untitled](https://github.com/user-attachments/assets/8fe3e55d-a709-4683-b75d-7b710b7f79e8)
 
 This project analyzes customer behavior and purchasing patterns using supermarket sales data. The goal is to uncover insights that can help optimize marketing strategies, product offerings, and operational decisions.
 
@@ -38,6 +39,11 @@ Customers were grouped based on features like:
 
 ---
 
+## 📬 Contact
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/stefano-baglio/) or reach out via email at s.baglio.personal@outlook.com.
+
+---
+
 ## 🗂️ Folder Structure
 
 ```bash
@@ -45,4 +51,5 @@ Customers were grouped based on features like:
 │
 ├── 📓 Understanding_Customer_Behavior_through_Sales_Data.ipynb
 ├── 📄 README.md
-└── 📊 dataset/ (optional - not included here)
+└── 📁 Data/
+
