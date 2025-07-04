@@ -1,4 +1,4 @@
-# 🛍️  Clustering Customer Behaviour in Supermarket Sales
+# 🛍️  Understanding Customer Behaviour in Supermarket Sales
 
 This project analyzes a supermarket sales dataset to uncover **customer behavior patterns**, **product performance**, and **strategic business insights**. The goal is to explore how customers interact with the store, what drives sales, and how customer profiles differ based on time, location, and purchasing habits.
 
