@@ -58,7 +58,7 @@ Used **K-Means clustering** to group customers based on:
 2. **High-Spending Members** – Loyal and valuable, often shop on weekends
 3. **Mid-Range Customers** – Diverse behavior, opportunity for conversion into loyal members
 
-Clusters were visualized and analyzed to guide **targeted promotions and business strategies**.
+Clusters can be leveraged to guide **targeted promotions and business strategies**.
 
 ---
 
